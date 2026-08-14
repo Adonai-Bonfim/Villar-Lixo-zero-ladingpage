@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Espaço para foto de oficina</title>
+  <desc id="desc">Placeholder para substituir por uma fotografia de oficina de educação ambiental.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b3443"/><stop offset="1" stop-color="#087a8f"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="url(#g)"/><circle cx="1040" cy="90" r="260" fill="#8ee000" opacity=".13"/>
+  <path d="M0 650C230 510 410 730 650 580s370-80 550-220v440H0Z" fill="#fff" opacity=".055"/>
+  <g fill="#fff" font-family="system-ui,sans-serif"><text x="72" y="650" font-size="28" opacity=".62">SUA FOTO AQUI</text><text x="72" y="706" font-size="46" font-weight="700">Oficina de educação ambiental</text></g>
+</svg>

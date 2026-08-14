@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="title desc">
+  <title id="title">Espaço para foto em empresa</title>
+  <desc id="desc">Placeholder para substituir por uma fotografia de apresentação Lixo Zero em empresa.</desc>
+  <defs><linearGradient id="g" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#12313c"/><stop offset="1" stop-color="#35616b"/></linearGradient></defs>
+  <rect width="1000" height="800" fill="url(#g)"/><path d="M650 0h350v800H430Z" fill="#8ee000" opacity=".07"/>
+  <g fill="#fff" font-family="system-ui,sans-serif"><text x="58" y="650" font-size="24" opacity=".62">SUA FOTO AQUI</text><text x="58" y="702" font-size="40" font-weight="700">Lixo Zero nas empresas</text></g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="title desc">
+  <title id="title">Espaço para foto do prêmio</title>
+  <desc id="desc">Placeholder para substituir pela fotografia do Prêmio Consultora Lixo Zero 2025.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#132107"/><stop offset=".5" stop-color="#3f6809"/><stop offset="1" stop-color="#0a303c"/></linearGradient></defs>
+  <rect width="1000" height="800" fill="url(#g)"/><circle cx="800" cy="140" r="250" fill="#fff" opacity=".06"/><text x="720" y="260" fill="#8ee000" font-family="system-ui,sans-serif" font-size="180" font-weight="800" opacity=".28">25</text>
+  <g fill="#fff" font-family="system-ui,sans-serif"><text x="58" y="624" font-size="24" opacity=".7">SUA FOTO DO PRÊMIO AQUI</text><text x="58" y="680" font-size="38" font-weight="700">Consultora Lixo Zero 2025</text><text x="58" y="724" font-size="25" opacity=".7">Edição Brasília</text></g>
+</svg>
