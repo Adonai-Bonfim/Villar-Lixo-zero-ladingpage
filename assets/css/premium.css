@@ -33,7 +33,7 @@
     --radius-lg: 2rem;
     --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
     --space-page: clamp(1rem, 4vw, 4.5rem);
-    --section-space: clamp(5.5rem, 12vw, 11rem);
+    --section-space: clamp(3rem, 6vw, 5rem);
   }
 }
 
@@ -194,7 +194,7 @@
   }
 
   #beneficios {
-    padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+    padding-bottom: clamp(2rem, 4vw, 3rem);
   }
 
   .benefit, .benefit:nth-child(1), .benefit:nth-child(2) { grid-column: auto; }
@@ -486,8 +486,8 @@
   }
 
   .field-work {
-    padding-top: clamp(3.5rem, 7vw, 6rem);
-    padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+    padding-top: clamp(2.5rem, 5vw, 4rem);
+    padding-bottom: clamp(2rem, 4vw, 3rem);
     background:
       radial-gradient(circle at 90% 4%, rgba(142,224,0,.1), transparent 24rem),
       var(--white);
@@ -779,8 +779,8 @@
   .award-copy > p:last-child { max-width: 48ch; margin-top: 1.25rem; color: rgba(225,241,247,.65); font-size: .85rem; }
 
   .certification {
-    padding-top: clamp(3.5rem, 7vw, 6rem);
-    padding-bottom: clamp(2.5rem, 6vw, 4.5rem);
+    padding-top: clamp(2.5rem, 5vw, 4rem);
+    padding-bottom: clamp(2rem, 4vw, 3rem);
     background:
       radial-gradient(circle at 88% 12%, rgba(142,224,0,.16), transparent 20rem),
       linear-gradient(145deg, #f3f9f7, #e8f4f5);
@@ -801,7 +801,7 @@
 
   .final--form-only {
     display: block;
-    padding-top: clamp(2.5rem, 6vw, 4.5rem);
+    padding-top: clamp(2rem, 4vw, 3rem);
   }
 
   .contact-heading h2 { max-width: 12ch; }
@@ -917,7 +917,7 @@
 @layer responsive {
   /* Relógios e viewports extremamente estreitos: conteúdo antes da decoração. */
   @media (width <= 22.5rem) {
-    :root { --space-page: .75rem; --section-space: 4.5rem; }
+    :root { --space-page: .75rem; --section-space: 3rem; }
     h1 { font-size: clamp(2.4rem, 15vw, 3.2rem); }
     h2 { font-size: clamp(1.8rem, 12vw, 2.5rem); }
     .proof { grid-template-columns: 1fr; gap: .5rem; margin-top: -2rem; }
