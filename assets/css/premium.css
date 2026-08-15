@@ -953,10 +953,10 @@
     .problem {
       grid-template-columns: minmax(18rem, .7fr) minmax(0, 1.3fr);
       align-items: start;
-      padding-bottom: clamp(2.5rem, 4vw, 4rem);
+      padding-bottom: clamp(1.25rem, 2vw, 2rem);
     }
     .problem-heading { position: sticky; top: 7rem; }
-    .why { padding-top: clamp(2.5rem, 4vw, 4rem); }
+    .why { padding-top: clamp(1.25rem, 2vw, 2rem); }
     .solution { grid-template-columns: minmax(0, 1.15fr) minmax(18rem, .85fr); align-items: center; }
     .site-nav {
       position: static;
